@@ -1,4 +1,4 @@
-# 自然拼读法（Phonics）
+# 自然拼读法（Phonics）1
 
 学完后，要做到：
 
@@ -110,5 +110,3 @@ Jj、Kk、Ll、Mm、Nn、Pp、
 Qq、Rr（张大口，卷舌）、Ss、Tt、
 
 Vv、Ww、Xx、Zz
-
-> 
